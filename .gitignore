@@ -1,0 +1,15 @@
+# 忽略所有 .log 文件
+*.log
+
+
+
+
+
+# 忽略所有 .tmp 文件夹下的文件
+.tmp/
+.idea/
+.venv/
+
+__pycache__/
+*.pyc
+
